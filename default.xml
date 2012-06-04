@@ -243,5 +243,5 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
-  <project path="vendor/common" name="bbuchacher/platform_vendor_common" remote="github">
+  <project path="vendor/common" name="bbuchacher/platform_vendor_common" remote="github" />
 </manifest>
